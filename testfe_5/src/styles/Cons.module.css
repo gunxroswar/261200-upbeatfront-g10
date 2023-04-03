@@ -1,0 +1,80 @@
+body {
+  background-image: url("D:/Gxz/Front End/testfe_5/pictures/Mountain_10.jpg");
+  background-color: #001d3d;
+}
+canvas {
+  position: absolute;
+  left: 175px;
+}
+/*For construction page*/
+.constructor {
+  position: relative;
+  color: blue;
+  left: 450px;
+}
+.consEnter {
+  position: absolute;
+  background-color: #5eff44;
+  width: 200px;
+  height: 90px;
+  left: 1500px;
+  top: 500px;
+  font-size: 40px;
+  color: black;
+}
+.consCancel {
+  position: absolute;
+  background-color: red;
+  width: 200px;
+  height: 90px;
+  left: 1500px;
+  top: 650px;
+  font-size: 40px;
+  color: black;
+}
+
+.Header {
+  position: relative;
+  background-color: #ffd60a;
+  text-align: center;
+  flex: auto;
+  left: 600px;
+  font-size: 150px;
+  color: #fb5607;
+}
+
+.expandButton {
+  position: relative;
+  background-color: blue;
+  width: 300px;
+  height: 90px;
+  left: 1300px;
+  top: 800px;
+  font-size: 40px;
+}
+.Time {
+  position: relative;
+  background-color: violet;
+  width: 200px;
+  height: 90px;
+  left: 0px;
+  top: 820px;
+  font-size: 40px;
+}
+.Goldbutton {
+  position: relative;
+  background-color: gold;
+  width: 200px;
+  height: 90px;
+  left: 650px;
+  top: 820px;
+  font-size: 40px;
+}
+.Region {
+  position: relative;
+  background-color: crimson;
+  width: 200px;
+  height: 90px;
+  top: 820px;
+  font-size: 40px;
+}
